@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/index";
-import About from "./pages/About";
+import About from "./pages/about";
 import NoPage from "./pages/nopage";
 import Result from "./pages/anime/result";
 import Anime from "./pages/anime";
