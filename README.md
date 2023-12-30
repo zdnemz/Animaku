@@ -18,15 +18,6 @@ Feel free to reach out, and let's connect!
 
 ## Tech Stack
 
-<p align="center">
-  <a href="https://tailwindcss.com" target="_blank">
-    <img alt="Tailwind CSS" src="public/tech/tailwindcss-light.svg" width="50%">
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img alt="ReactJS" src="public/tech/reactjs.svg" style="max-width: 50%; width: 60vw;">
-  </a>
-</p>
-
 ### ReactJS
 
 The design of this website is crafted using [React.js](https://reactjs.org/), a powerful JavaScript library for creating dynamic and responsive user interfaces.
