@@ -2,10 +2,6 @@
 
 ## About Me
 
-<div align="center">
-  <img alt="my-profile" src="https://avatars.githubusercontent.com/u/137695964?v=4" style="border-radius: 50%; max-width: 250px;">
-</div>
-
 ### Hello there! My name is [ZidaneMZ](https://github.com/zdnemz), a passionate Frontend Developer.
 
 I love building creative and user-friendly interfaces to bring ideas to life.
